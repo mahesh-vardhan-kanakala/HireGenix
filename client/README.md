@@ -1,9 +1,5 @@
 ## Job Portal Application
 
-### Admin Credentials
-- Email: admin@jobhub.com
-- Password: Admin@123
-
 ### Features
 - User authentication (Sign In/Sign Up)
 - Job posting for employers
